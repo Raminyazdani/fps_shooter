@@ -1,8 +1,3 @@
-import time
-from abc import ABC, abstractmethod
-
-
-# Pattern - Template - Base
 
 
 class BaseWeapon(ABC):
